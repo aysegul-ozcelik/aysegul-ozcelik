@@ -1,5 +1,5 @@
 Hi 👋, I'm Aysegul Ozcelik</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">A passionate data scientist from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysegul-ozcelik&label=Profile%20views&color=0e75b6&style=flat" alt="aysegul-ozcelik" /> </p>
 

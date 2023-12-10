@@ -28,4 +28,4 @@ Hi 👋, I'm Aysegul Ozcelik</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysegul-ozcelik&" alt="aysegul-ozcelik" /></p>
 
 
--->
+
